@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "664757711677",
+    "project_id": "driving-course-83524",
+    "storage_bucket": "driving-course-83524.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664757711677:android:6db3be2f4090a0fe760b54",
+        "android_client_info": {
+          "package_name": "com.example.driving_question"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "664757711677-6ce95u325ibjk1bl4dtpkgd3vdu94rkg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuTz-IOnv1JbyCYVIKoEyk0PhMVdPNEGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "664757711677-6ce95u325ibjk1bl4dtpkgd3vdu94rkg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
